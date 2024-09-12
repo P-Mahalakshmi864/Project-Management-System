@@ -1,0 +1,18 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+#project-form {
+	margin-bottom: 20px;
+}
+
+#project-list {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+#project-list li {
+	margin-bottom: 10px;
+}
+

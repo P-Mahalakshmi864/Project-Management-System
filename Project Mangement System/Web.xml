@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="(link unavailable)"
+         xmlns:xsi="(link unavailable)"
+         xsi:schemaLocation="(link unavailable)
+         (link unavailable)">
+    <servlet>
+        <servlet-name>ProjectController</servlet-name>
+        <servlet-class>ProjectController</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ProjectController</servlet-name>
+        <url-pattern>/api/projects</url-pattern>
+    </servlet-mapping>
+</web-app>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Project Management System</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<h1>Project Management System</h1>
+	<form id="project-form">
+		<label for="project-name">Project Name:</label>
+		<input type="text" id="project-name" name="project-name">
+		<button id="create-project-btn">Create Project</button>
+	</form>
+	<div id="project-list"></div>
+
+	<script src="script.js"></script>
+</body>
+</html>
